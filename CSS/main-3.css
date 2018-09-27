@@ -1,0 +1,76 @@
+h1, h2 {
+    color: rgb(126, 165, 229);
+    text-align: left;
+    padding 100px;
+    font-size: 3rem;
+
+
+}
+
+
+nav {
+      background: rgb(66, 134, 244);
+    text-align: left;
+    padding: 7px;
+   margin-bottom: 0;
+  }
+
+img {
+  width: 90%
+}
+
+a {
+    color: white;
+    height: 24px;
+    font-size: 3rem;
+ padding: 10px;
+    }
+
+.FullName {
+  color: rgb(47, 71, 109);
+text-shadow: 1px 1px white;
+text-align: left;
+  font-size: 3rem;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 80px;
+margin-top: 0;
+}
+
+.Username {
+color: rgb(126, 165, 229);
+text-shadow: 1px 1px rgb(47, 71, 109);
+text-align: left;
+font-size: 3rem;
+padding-top: 20px;
+padding-bottom: 70px;
+padding-left: 80px;
+}
+
+.container {
+    /* position: relative; */
+    background-image: url("../Images/panorama-3.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px 300px;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+/* background-image {
+  height: auto; */
+}
+
+header {
+  margin: 40px;
+}
+
+main {
+  margin: 40px;
+}
+
+hr {
+  background-color: rgb(47, 71, 109);
+  height: 20px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
